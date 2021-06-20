@@ -1,4 +1,4 @@
-module github.com/4FR4KO-POVELECKO/teles
+module github.com/snussik/teles
 
 go 1.15
 
